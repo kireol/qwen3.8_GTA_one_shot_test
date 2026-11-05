@@ -1,0 +1,8 @@
+# Regenerable headless-test output (screenshots, logs, extracted script)
+tests/out/
+
+# Qwen Code scratch/thumbnails
+.qwen/tmp/
+
+# macOS / editor noise
+.DS_Store

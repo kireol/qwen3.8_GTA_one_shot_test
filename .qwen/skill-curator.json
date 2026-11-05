@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "skills": {
+    "auto-skill-verified-project-readme": {
+      "skillName": "verified-project-readme",
+      "firstSeenAt": "2026-11-05T16:06:04.478Z",
+      "lastActivityAt": "2026-11-05T16:06:04.478Z",
+      "useCount": 0,
+      "state": "active",
+      "pinned": false
+    }
+  },
+  "lastRunAt": "2026-11-05T16:06:04.478Z"
+}
